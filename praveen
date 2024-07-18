@@ -1,0 +1,22 @@
+LOCAL CHANGES
+------------------
+
+1. git status    / to check the status of git.
+
+2. git add / to add changes from working dir. to staging area.
+syn: git add <filename>
+     git add .
+
+3. git commit / to add the changes from staging to local repo.
+
+syn: git commit -m "commit-messege"
+
+
+4. to check the commit history
+
+syn: git log
+     git log --oneline
+
+syn: git show <commit-id>  / to see the content of commit.
+
+file2 file3 file4 file5 
